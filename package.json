@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-rem-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "wa-sticker-formatter": "latest",
+    "axios": "latest",
+    "ytdl-core": "latest",
+    "moment": "latest",
+    "fluent-ffmpeg": "latest",
+    "ffmpeg-static": "latest"
+  }
+}
